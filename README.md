@@ -26,9 +26,6 @@
 * Spring Security
 * Spring Session
 
-## 资料
-* [纯洁的微笑 Spring-Boot](http://www.ityouknow.com/spring-boot)
-
 # Spring Cloud
 ## 组件
 * 架构(基于Rest同步架构/基于消息的异步架构/Reactive 架构)
@@ -38,6 +35,6 @@
 * 服务网关
 * 链路监控/数据埋点
 
-
-## 资料
-* [纯洁的微笑 Spring-Cloud](http://www.ityouknow.com/spring-cloud)
+# 资料
+* [纯洁的微笑]http://www.ityouknow.com/
+* [程序猿DD](http://blog.didispace.com/)
