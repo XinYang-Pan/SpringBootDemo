@@ -29,14 +29,6 @@
 ## 资料
 * [纯洁的微笑 Spring-Boot](http://www.ityouknow.com/spring-boot)
 
-# 结合项目
-* Spring Boot启动 
-* Spring Security (认证/鉴权, 本地/SSO/LDAP)
-* Spring Session
-* Spring Data JPA
-* Spring Framework: Conversion/Format/Validation
-
-
 # Spring Cloud
 ## 组件
 * 架构(基于Rest同步架构/基于消息的异步架构/Reactive 架构)
