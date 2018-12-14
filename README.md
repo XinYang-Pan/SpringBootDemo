@@ -36,5 +36,5 @@
 * 链路监控/数据埋点
 
 # 资料
-* [纯洁的微笑]http://www.ityouknow.com/
+* [纯洁的微笑](http://www.ityouknow.com/)
 * [程序猿DD](http://blog.didispace.com/)
