@@ -20,7 +20,6 @@ public class HelloPo {
 	private String username;
 
 	public HelloPo(String username) {
-		super();
 		this.username = username;
 	}
 

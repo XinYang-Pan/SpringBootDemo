@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.example.demo.dao.HelloDao;
 import com.example.demo.po.HelloPo;
 
+import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
@@ -34,6 +35,7 @@ public class DemoController {
 
 	@GetMapping("/queryRest")
 	@ResponseBody
+	@SneakyThrows
 	public List<HelloPo> query(String q) {
 		return helloDao.findByUsername(q);
 	}
